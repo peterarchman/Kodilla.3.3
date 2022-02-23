@@ -11,3 +11,5 @@ for key in shopping_dict:
 item_number = len(shopping_dict["piekarnia"]) + len(shopping_dict["warzywniak"])
 
 print("W sumie kupuję", item_number, "produktów.")
+
+print("aaa")
